@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Textile_flow/static/css/main.5b40784c.css",
+    "main.js": "/Textile_flow/static/js/main.f7bb46bf.js",
+    "index.html": "/Textile_flow/index.html",
+    "main.5b40784c.css.map": "/Textile_flow/static/css/main.5b40784c.css.map",
+    "main.f7bb46bf.js.map": "/Textile_flow/static/js/main.f7bb46bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b40784c.css",
+    "static/js/main.f7bb46bf.js"
+  ]
+}
